@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HPlusSport.Security.Web", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HPlusSport.Security.API", "HPlusSport.Security.API\HPlusSport.Security.API.csproj", "{3A920658-C7E4-491D-A56B-62635F605C06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPlusSport.Security", "HPlusSport.Security\HPlusSport.Security.csproj", "{8462BD56-185D-49A0-AA7A-944D18FBC266}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPlusSport.Security.Identity", "HPlusSport.Security\HPlusSport.Security.Identity.csproj", "{8462BD56-185D-49A0-AA7A-944D18FBC266}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
